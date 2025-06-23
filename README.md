@@ -1,5 +1,5 @@
 # Mobile-Charging-System
-I made a mobile charging System during my Minor Project-1 JIIT. The circuit Simulation were done on the LTSpice software and checked its frequency. Want to have the circuit diagram contact me!!
+I made a mobile charging System during my Minor Project-1 during my 3rd year at JIIT. The circuit Simulation were done on the LTSpice software and checked its frequency. Want to have the circuit diagram contact me!!
 
 ## Block Diagram 
 ![Screenshot 2024-11-19 212338](https://github.com/user-attachments/assets/4d843dce-4836-4125-8c4e-c98e565b37e0)
